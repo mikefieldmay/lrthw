@@ -1,0 +1,4 @@
+The error was caused on line 14.
+The problem seems to be that carpool_capacity hasn't been
+defined as a variable,so Ruby was unable it interpolate it
+into the string.
