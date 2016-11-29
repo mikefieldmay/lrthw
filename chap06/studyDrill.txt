@@ -1,0 +1,7 @@
+There are four places where a string is put inside a string
+and one place where false (a boolean value) is put inside a string.
+
+Adding a string to another string using + outputs a string
+that is the combination of both.
+
+String interpolation doesn't work with single quotes.
