@@ -1,0 +1,4 @@
+ten_things.split(' ') is the same as split(ten_things, ' ')
+stuff.length() = length(stuff)
+more_stuff.pop = pop(more_stuff)
+stuff.push(next_one) = push(stuff, next_one)
